@@ -18,7 +18,7 @@ justify-center h-full px-4 md:flex-row">
 <h2 className="text-4xl sm:text-5xl font-bold
 text-yellow-400 mt-40"> I'm a Full Stack Developer</h2>
 <p className="py-4 max-w-md text-white text-xl">
-  Have one year experience  of building and designing software  systems as a freelancer. Currently,  I prefer to 
+  Have more than two years experience  of writing codes,building and designing software  systems as a freelancer. Currently,  I prefer to 
   work with technologies and tools which include Node JS, eclipse for Java,React JS, MySQL, SpringBoot and Microsoft 
   Visual Studio for C#.   
 </p>

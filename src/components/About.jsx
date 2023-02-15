@@ -13,7 +13,7 @@ w-full h-full">
 
       </div>
 <p className="text-xl">
-<b className="text-yellow-500"> Lawson Matutu</b> real name,is a <b className="text-yellow-500">Software Developer</b> who is familiar with several skills and proficiency needed in 
+<b className="text-yellow-500"> Lawson </b> real name,is a <b className="text-yellow-500">Software Developer</b> who is familiar with several skills and proficiency needed in 
  Software Development in form of programming languages such as <b className="text-yellow-500">Java,C#,JavaScript,HTML,CSS and PHP</b>. To add to the list,
  he has developed skills in working with different frameworks such as <b className="text-purple-500">SpringBoot,Node JS and React JS </b>incorporating
  the MySQL database and different IDEs like <b className="text-yellow-500"> eclipse, Microsoft Visual Studio and Microsoft Visual Studio Code </b>. </p>
