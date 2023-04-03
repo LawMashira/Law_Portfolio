@@ -19,7 +19,7 @@ w-full h-full">
  the MySQL database and different IDEs like <b className="text-yellow-500"> eclipse, Microsoft Visual Studio and Microsoft Visual Studio Code </b>. </p>
 <b/>
 
-<p className="text-xl"> Currently,Lawson works under the Ministry of Primary and Secondary Education as teacher having attained 
+<p className="text-xl"> Lawson is a former classroom practitioner who worked under the Ministry of Primary and Secondary Education having attained 
 a Diploma in Education in 2015 at Joshua Mqabuko Nkomo Polytechnic, an associate college of the University of Zimbabwe but he has
 a great passion for software development.
 </p>
